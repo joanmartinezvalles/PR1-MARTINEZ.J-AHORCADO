@@ -32,7 +32,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>JuegoAhorcado.AhorcadoV1</StartupObject>
+    <StartupObject>
+    </StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -45,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AhorcadoV1.cs" />
+    <Compile Include="LogicaAhorcado.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
