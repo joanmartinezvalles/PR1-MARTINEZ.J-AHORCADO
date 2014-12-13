@@ -8,7 +8,23 @@ namespace JuegoAhorcado
 {
     class Logica
     {
+        public void ParametrosConsola()
+        {
+            Console.BackgroundColor = ConsoleColor.Blue;
+            Console.ForegroundColor = ConsoleColor.White;
 
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.ResetColor();
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("*****************************");
+            Console.WriteLine();
+            Console.WriteLine("     JUEGO DEL AHORCADO");
+            Console.WriteLine("        Versión 1.0");
+            Console.WriteLine(" Autor: Joan Martínez Vallés");
+            Console.WriteLine("*****************************");
+            Console.WriteLine();
+        }
         public string ListaPalabras()
         {
             //1. El programa escoge una palabra al azar de una lista..
