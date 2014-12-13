@@ -45,7 +45,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AhorcadoV1.cs" />
+    <Compile Include="..\..\..\..\..\..\Documents\Visual Studio 2013\Projects\AhorcadoV2.cs" />
     <Compile Include="LogicaAhorcado.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
