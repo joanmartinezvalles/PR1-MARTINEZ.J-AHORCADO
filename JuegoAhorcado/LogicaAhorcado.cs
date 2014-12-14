@@ -16,9 +16,8 @@ namespace JuegoAhorcado
             Console.WriteLine("");
             Console.WriteLine("");
             Console.ResetColor();
-            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("*****************************");
-            Console.WriteLine();
             Console.WriteLine("     JUEGO DEL AHORCADO");
             Console.WriteLine("        Versión 1.0");
             Console.WriteLine(" Autor: Joan Martínez Vallés");
