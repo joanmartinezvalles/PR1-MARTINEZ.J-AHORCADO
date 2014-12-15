@@ -10,8 +10,6 @@ namespace JuegoAhorcado
     {
         public void ParametrosConsola()
         {
-            Console.BackgroundColor = ConsoleColor.Blue;
-            Console.ForegroundColor = ConsoleColor.White;
 
             Console.WriteLine("");
             Console.WriteLine("");
